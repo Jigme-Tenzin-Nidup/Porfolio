@@ -203,6 +203,13 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
 }
 
+.logo{
+  flex-basis: 10%;
+}
+
+.logo img{
+  width: 55px;
+}
 /**
 * Mobile Navigation 
 */
